@@ -1,0 +1,4 @@
+Anna: 10
+Bob: 2
+Carl: 7
+David: 3
