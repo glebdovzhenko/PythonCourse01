@@ -1,0 +1,2 @@
+Edith: 4
+Fred: 8
